@@ -1,3 +1,3 @@
 # guess-the-number-game
-Springboot application
-SpringMVC, Project Lombok, DevTools.
+Springboot application.
+Used SpringMVC, Project Lombok, DevTools.
