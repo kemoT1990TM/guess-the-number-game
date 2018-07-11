@@ -1,0 +1,10 @@
+tkartas\config\GameConfig.class
+tkartas\MessageGeneratorImpl.class
+tkartas\MaxNumber.class
+tkartas\MessageGenerator.class
+tkartas\Game.class
+tkartas\GuessCount.class
+tkartas\MinNumber.class
+tkartas\NumberGeneratorImpl.class
+tkartas\GameImpl.class
+tkartas\NumberGenerator.class

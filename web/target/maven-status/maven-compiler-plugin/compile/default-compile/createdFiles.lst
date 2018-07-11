@@ -1,0 +1,5 @@
+tkartas\WebMain.class
+tkartas\util\ViewNames.class
+tkartas\config\WebConfig.class
+tkartas\service\GameService.class
+tkartas\service\GameServiceImpl.class
