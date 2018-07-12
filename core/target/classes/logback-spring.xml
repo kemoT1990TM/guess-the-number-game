@@ -8,6 +8,7 @@
 
     <logger name="tkartas" level="DEBUG"/>
     <logger name="org.springframework" level="INFO"/>
+    <logger name="org.thymeleaf" level="TRACE"/>
 
     <!--<root level="INFO">-->
         <!--<appender-ref ref="STDOUT"/>-->
