@@ -1,12 +1,14 @@
 <thlogic>
     <attr sel="#headId"
           th:replace="~{fragments/head :: headFragment}"/>
+    <attr sel="#game-title" th:text="#{game.title}"/>
+    <attr sel="#game-over" th:text="#{game.over}"/>
     <attr sel="#result-message"
           th:text="${__${T(tkartas.util.AttributeNames).RESULT_MESSAGE}__}"/>
     <attr sel="#game-restart"
-          th:href="@{__${T(tkartas.util.GameMappings).RESTART}__}"/>
+          th:href="@{__${T(tkartas.util.GameMappings).RESTART}__}" th:text="#{game.restart}"/>
     <attr sel="#home-page"
-          th:href="@{__${T(tkartas.util.GameMappings).HOME}__}"/>
+          th:href="@{__${T(tkartas.util.GameMappings).HOME}__}" th:text="#{game.homePage}"/>
     <attr sel="#footerId"
           th:replace="~{fragments/footer :: footerFragment}"/>
 </thlogic>

@@ -1,5 +1,9 @@
+tkartas\util\thymeleaf\DecoupledLogicSetup.class
 tkartas\WebMain.class
+tkartas\util\AttributeNames.class
 tkartas\util\ViewNames.class
 tkartas\config\WebConfig.class
 tkartas\service\GameService.class
 tkartas\service\GameServiceImpl.class
+tkartas\controller\GameController.class
+tkartas\util\GameMappings.class
