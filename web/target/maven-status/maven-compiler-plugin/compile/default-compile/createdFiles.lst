@@ -7,3 +7,4 @@ tkartas\service\GameService.class
 tkartas\service\GameServiceImpl.class
 tkartas\controller\GameController.class
 tkartas\util\GameMappings.class
+tkartas\interceptor\RequestInterceptor.class
